@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{CF5EC3AB-AA9C-AB70-CED1-CBFC1DE79979}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/WeatherController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/WeatherController.cs" Line="47" Column="75" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Weather" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="WeatherController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c09a2fd0-9388-485b-b5e3-2cb31519996b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
